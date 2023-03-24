@@ -9515,9 +9515,7 @@ json-parse-even-better-errors@^2.3.0, json-parse-even-better-errors@^2.3.1:
   integrity sha512-xyFwyhro/JEof6Ghe2iz2NcXoj2sloNsWr/XsERDK/oiPCfaNhl5ONfp+jQdAZRQQ0IJWNzH9zIZF7li91kh2w==
 
 json-schema-to-typescript@^11.0.1:
-  version "11.0.2"
-  resolved "https://registry.yarnpkg.com/json-schema-to-typescript/-/json-schema-to-typescript-11.0.2.tgz#80348391abb4ffb75daf312380c2f01c552ffba8"
-  integrity sha512-XRyeXBJeo/IH4eTP5D1ptX78vCvH86nMDt2k3AxO28C3uYWEDmy4mgPyMpb8bLJ/pJMElOGuQbnKR5Y6NSh3QQ==
+  version "11.0.5"
   dependencies:
     "@bcherny/json-schema-ref-parser" "9.0.9"
     "@types/json-schema" "^7.0.11"
