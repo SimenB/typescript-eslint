@@ -5788,9 +5788,7 @@ console-control-strings@^1.1.0:
   integrity sha1-PXz0Rk22RG6mRL9LOVB/mFEAjo4=
 
 console-fail-test@^0.1.7:
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/console-fail-test/-/console-fail-test-0.1.7.tgz#f21ee5f944fb42c0d176a56c5b4744cb2f8d86c8"
-  integrity sha512-WZ9unWXJSqDGMt/06wOSPNHwAIAdIJvhgSD2MepJHG5B7b3PD3b8q0NMpaqegGmGFgZUiru+0xEsyvpvg/CM+A==
+  version "0.1.8"
 
 content-disposition@0.5.2:
   version "0.5.2"
